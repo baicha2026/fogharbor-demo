@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>技术策划 / 战斗 / 关卡 / 任务策划简历</title>
+<style>
+:root{color-scheme:light;--ink:#232c36;--muted:#667180;--line:#dce1e6;--accent:#aa773b}
+*{box-sizing:border-box}body{margin:0;background:#edf0f3;color:var(--ink);font-family:sans-serif;font-size:13px;line-height:1.72}
+.sheet{max-width:794px;margin:28px auto;padding:38px 48px 32px;background:white;border-top:5px solid var(--accent);box-shadow:0 5px 24px #25324412}
+.draft{font-size:10px;letter-spacing:1.6px;color:var(--muted);margin:0 0 6px}
+h1{font-size:29px;line-height:1.3;letter-spacing:1px;margin:0 0 12px}
+h2{font-size:15px;margin:22px 0 9px;padding-bottom:5px;border-bottom:1px solid var(--line);page-break-after:avoid}
+p{margin:5px 0}ul{padding-left:18px;margin:8px 0}li{padding-left:3px;margin:7px 0;break-inside:avoid}
+strong{font-weight:700}hr{border:0;border-top:1px solid var(--line);margin-top:24px}.footnote{font-size:10px;line-height:1.5;color:var(--muted)}
+@page{size:A4;margin:12mm} @media print{body{background:white;font-size:11px;line-height:1.6}.sheet{margin:0;padding:8px 6px 0;max-width:none;box-shadow:none}h1{font-size:25px}h2{margin-top:17px}li{margin:5px 0}}
+@media(max-width:600px){.sheet{margin:0;padding:26px 22px}.draft{letter-spacing:.5px}h1{font-size:26px}}
+</style></head><body><main class="sheet"><p class="draft">RESUME DRAFT · 游戏策划</p>
+<h1>[姓名待填写] - [学校待填写] - 2027届</h1>
+<p><strong>技术策划 / 战斗策划 / 关卡策划 / 任务策划</strong></p>
+<p>手机：[待填写]　邮箱：[待填写]　意向城市：[待填写]　招聘类型：[校招 / 实习 / 社招待确认]</p>
+<p><strong>作品链接</strong>　Demo演示视频（B站）：[待补]　策划设计文档 PDF：[待补]　GitHub源码：[待补]</p>
+<h2>个人总结</h2>
+<ul>
+<li>具备游戏策划原型实践，围绕<strong>战斗数值推演、关卡动线设计、动态任务系统</strong>搭建可交互验证沙盘。</li>
+<li>具备技术策划方向的原型能力：以 <strong>Python（基础）</strong> 为主，结合 Vibe Coding 将文字方案转成可运行的规则、界面与数据图表。</li>
+<li>项目覆盖战斗 DPS 曲线、受击热力图、AI 动态任务和 ComfyUI 工作流接口，可用于验证数值节奏、路线风险与任务反馈。</li>
+<li>累计游戏时长 <strong>3000+ 小时</strong>，涉猎 MOBA、FPS、卡牌、肉鸽、MMORPG 等类型，持续关注战斗手感、竞技博弈、Build 构筑和任务节奏。</li>
+</ul>
+<h2>核心项目经历</h2>
+<p><strong>《AI技术策划试炼场》｜2D 网格策略沙盘与动态任务生成系统</strong></p>
+<p>项目角色：[独立技术策划 / 原型开发，具体职责待确认]　项目时间：[待填写]</p>
+<p><strong>项目目标：</strong>针对传统策划案难以快速验证数值平衡与探索体验的问题，搭建“任务生成 → 关卡探索 → 战斗结算 → 数据复盘”的可运行闭环。项目由 AI 辅助完成，个人职责与可解释范围需在投递前确认。</p>
+<ul>
+<li><strong>任务策划｜AI 动态任务网：</strong>以玩家实时血量、金币和等级作为输入，生成带前置条件、奖励和分支选项的 JSON 任务；保留离线规则模式、异步 DeepSeek 接口、结构校验和数值合法性检查，用于验证千人千面的任务引导。</li>
+<li><strong>关卡策划｜动线与受击热力图：</strong>构建 10×10 网格，放置陷阱、怪物、补给点等元素；记录玩家行动轨迹和受击坐标，用 Plotly 绘制热力图，辅助检查危险区密度、补给路线和探索风险。</li>
+<li><strong>战斗策划｜技能循环与 DPS 验证：</strong>设计高伤长冷却与低伤短冷却回蓝两类技能，并加入防御和首领攻击预告；记录每回合伤害、DPS 峰值和技能真空期，验证战斗节奏与资源循环。数值设计及调整记录：[待本人补充]。</li>
+<li><strong>技术策划与 AIGC：</strong>使用 Streamlit、Plotly、Pandas、FastAPI 组织可交互验证界面；预留 ComfyUI API 工作流，根据奖励物品名生成成就海报概念图。实际工具使用和在线服务验证情况：[待本人确认]。</li>
+</ul>
+<p><strong>可提交材料：</strong>Windows EXE、项目 README、策划设计文档、源代码、地图 / 战斗截图和数据图表。正式附件链接：[待补]</p>
+<h2>深度游戏经历与系统拆解</h2>
+<ul>
+<li><strong>累计时长：</strong>3000+ 小时。</li>
+<li><strong>主要品类：</strong>MOBA、FPS、卡牌、肉鸽、MMORPG；对竞技对抗、英雄技能、职业平衡、Build 构筑和养成节奏有长期体验。</li>
+<li><strong>深度游戏：</strong>[游戏 1：名称 / 时长 / 段位或进度 / 具体系统拆解待填写]；[游戏 2：名称 / 时长 / 段位或进度 / 具体系统拆解待填写]。</li>
+<li><strong>分析案例：</strong>[待填写一款熟悉游戏的痛点、玩家影响、数据或体验证据，以及动态难度 / 资源回收 / 任务改良方案]。</li>
+</ul>
+<h2>专业技能</h2>
+<ul>
+<li><strong>策划能力：</strong>系统架构设计、战斗数值建模与推演、技能循环分析、关卡动线与心流设计、任务网搭建、竞品拆解。</li>
+<li><strong>技术策划：</strong>Python（基础）；FastAPI；Streamlit / Plotly / Pandas 原型与数据可视化；Vibe Coding（AI 辅助开发）。</li>
+<li><strong>AI 工作流：</strong>ComfyUI 节点式工作流与 API 集成；LLM Agent Prompt 设计、JSON 输出约束与结果校验。[Function Calling 实践待确认]</li>
+<li><strong>工具软件：</strong>Excel（数值建模）、Visio / XMind（系统架构）、Axure / Figma（UI 原型）。实际熟练度：[待本人确认]</li>
+</ul>
+<h2>教育与其他经历</h2>
+<p>教育背景：[按本人要求暂跳过，提交前补充学校 / 专业 / 学历 / 毕业时间]</p>
+<p>工作 / 实习经历：[待填写；无则写“无”]</p>
+<hr>
+<p class="footnote"><strong>提交前核对：</strong>请补齐姓名、学校、联系方式、目标岗位、两款深度游戏、真实段位 / 进度、项目个人职责及作品链接；示例内容和待确认字段不能直接作为事实投递。</p>
+</main></body></html>

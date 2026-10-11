@@ -1,0 +1,100 @@
+=== E:\0 ===
+'.env' | 612
+'.env.example' | 612
+'.gitignore' | 135
+'.idea' | <dir>
+'.pytest_cache' | <dir>
+'.ruff_cache' | <dir>
+'.runtime' | <dir>
+'.streamlit' | <dir>
+'.venv' | <dir>
+'README.md' | 12765
+'__pycache__' | <dir>
+'adventure' | <dir>
+'app.py' | 816
+'artifacts' | <dir>
+'assets' | <dir>
+'backend' | <dir>
+'build_resume.py' | 7094
+'career' | <dir>
+'check_desktop.py' | 609
+'checks.json' | 551
+'deepseek_data-2026-10-11.zip' | 1760818
+'desktop_launcher.py' | 10821
+'dist' | <dir>
+'docs' | <dir>
+'dsh-chat-bridge-1.0.0.tgz' | 1921350
+'final_content.txt' | 3505
+'frontend' | <dir>
+'fs_check.py' | 673
+'fs_check.txt' | 0
+'game' | <dir>
+'inspect_output.txt' | 14349
+'inspect_resume.py' | 1251
+'packaging' | <dir>
+'preview-v1' | <dir>
+'preview-v2' | <dir>
+'preview-v3' | <dir>
+'preview-v4' | <dir>
+'pyproject.toml' | 379
+'requirements-build.txt' | 43
+'requirements-dev.txt' | 79
+'requirements.txt' | 202
+'run.py' | 5060
+'runtime_paths.py' | 1567
+'sandbox_app.py' | 17667
+'scripts' | <dir>
+'tests' | <dir>
+'verify_resume.py' | 699
+'workflows' | <dir>
+
+=== C:\Users\ASUS\Desktop ===
+'AI_Agent工程师_了解知识点.md' | 8785
+'CC Switch.lnk' | 1652
+'Cheat Engine.lnk' | 1084
+'Codex.lnk' | 1252
+'DeepSeek Harness.lnk' | 851
+'IT职场与面试英语实验' | <dir>
+'Kimi.lnk' | 2258
+'LM Studio.lnk' | 2356
+'Microsoft Edge.lnk' | 2334
+'MuMu模拟器.lnk' | 891
+'Reasonix.lnk' | 819
+'Slay the Spire 2.url' | 203
+'Unity零基础学习链接汇总.docx' | 41255
+'Visual Studio Code.lnk' | 708
+'WPS Office.lnk' | 947
+'WinSCP.lnk' | 695
+'Yomi世界.lnk' | 682
+'desktop.ini' | 282
+'人工2' | <dir>
+'人工智能' | <dir>
+'人工智能2' | <dir>
+'关于举办中国好创意大赛AIGC专项比赛校级赛的通知.pdf' | 294747
+'墨境.url' | 203
+'夸克网盘.lnk' | 832
+'奇游电竞加速器.lnk' | 623
+'实验' | <dir>
+'实验报告模板.docx' | 19067
+'扣子.lnk' | 736
+'新建 DOC 文档.doc' | 10240
+'新建 文本文档.txt' | 236
+'桌面简历' | <dir>
+'百度网盘.lnk' | 698
+'稻叶1.0' | <dir>
+'课程报告_2.docx' | 68377
+'豆包.lnk' | 754
+'迅雷.lnk' | 1012
+'雷电多开器.lnk' | 808
+'雷电模拟器14.lnk' | 777
+'雷神加速器.lnk' | 411
+'风暴怕死队.url' | 203
+
+=== C:\Users\ASUS\Desktop\桌面简历 ===
+'技术策划简历.html' | 6458
+'技术策划简历.md' | 4355
+'技术策划简历.pdf' | 241387
+'技术策划简历.png' | 197622
+'技术策划简历_旧版.docx' | 18488
+'策划简历.docx' | 52736
+
